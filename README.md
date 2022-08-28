@@ -1,6 +1,6 @@
-# arabic-text-detection
-this is a work-in-progress for arabic scene text detection and document text detection, the model is trained for line detection,
-check out the online DEMO to test the model. for feedback contact me at megyux@gmail.com
+# Arabic-text-detection
+This is a demo for line-based Arabic scene text detection and document text detection.  
+for feedback contact me at megyux@gmail.com
 
 ## ONLINE DEMO
 Hosted by 🤗 spaces  
